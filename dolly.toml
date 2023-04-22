@@ -1,4 +1,5 @@
 # Dolly build configuration
+# https://github.com/Pretty-Good-RISC-V/dolly
 [package]
 name = "Alu"
 version = "0.1.0"
