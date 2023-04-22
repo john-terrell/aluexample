@@ -1,0 +1,4 @@
+# Dolly build configuration
+[package]
+name = "Alu"
+version = "0.1.0"
